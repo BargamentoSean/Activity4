@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Activity 4</title>
+		<link rel="stylesheet" type="text/css" href="Q2Activity4_Bargamento.css">
+	</head>
+	<body>
+		<div class="one">
+			<h1>Help</h1>
+			<img src="https://www.lollydaskal.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-16-at-5.16.54-PM.png" width="350" height="250">
+		</div>
+		<div class="two">
+		<ul>
+			<li>Hello</li>
+			<li>Emergency</li>
+			<li>License</li>
+			<li>Piledriver</li>
+		</ul>
+		</div>
+	</body>
+</html>
